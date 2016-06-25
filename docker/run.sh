@@ -1,1 +1,1 @@
-docker run -p 5432:5432 --rm --name sample_postgresql -e POSTGRES_PASSWORD=daemongear -e POSTGRES_DB=daemongear -e POSTGRES_USER=daemongear postgres
+docker run -p 5432:5432 -d --name sample_postgresql -e POSTGRES_PASSWORD=daemongear -e POSTGRES_DB=daemongear -e POSTGRES_USER=daemongear postgres
