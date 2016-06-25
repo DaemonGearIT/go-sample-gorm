@@ -1,0 +1,6 @@
+hash: 939ee01c93353beb46facb83018662347f360c72c65b0be5711955dd38d8022e
+updated: 2016-06-25T00:13:16.036407069-03:00
+imports:
+- name: github.com/jinzhu/gorm
+  version: 321d10b67b7218c5cf3bebc0c01fc8c4536c2bc7
+devImports: []

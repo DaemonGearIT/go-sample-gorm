@@ -1,0 +1,3 @@
+package: go-sample-gorm
+import:
+- package: github.com/jinzhu/gorm
